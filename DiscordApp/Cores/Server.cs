@@ -69,6 +69,6 @@ namespace DiscordApp.Cores
             _memberRoles.ContainsKey(userId);
 
         public override string ToString() =>
-            $"[Server] {Name} | 👥{_memberRoles.Count} | #{_channels.Count}";
+            $"[Server] {Name} | Member Count: {_memberRoles.Count} |Channel Count: {_channels.Count}";
     }
 }

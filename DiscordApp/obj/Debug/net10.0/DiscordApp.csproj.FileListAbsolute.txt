@@ -16,3 +16,4 @@ C:\Users\Owner\Desktop\NUM\2025-2026-Spring\ICSI314-WP\SocialNetworkingPlatform\
 C:\Users\Owner\Desktop\NUM\2025-2026-Spring\ICSI314-WP\SocialNetworkingPlatform\DiscordApp\obj\Debug\net10.0\DiscordApp.pdb
 C:\Users\Owner\Desktop\NUM\2025-2026-Spring\ICSI314-WP\SocialNetworkingPlatform\DiscordApp\obj\Debug\net10.0\DiscordApp.genruntimeconfig.cache
 C:\Users\Owner\Desktop\NUM\2025-2026-Spring\ICSI314-WP\SocialNetworkingPlatform\DiscordApp\obj\Debug\net10.0\ref\DiscordApp.dll
+C:\Users\Owner\Desktop\NUM\2025-2026-Spring\ICSI314-WP\SocialNetworkingPlatform\DiscordApp\obj\Debug\net10.0\DiscordApp.sourcelink.json

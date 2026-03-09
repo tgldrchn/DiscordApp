@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscordApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b96d4b915448065ed09a425b91380e2c038c39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscordApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscordApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

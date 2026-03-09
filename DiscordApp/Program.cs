@@ -103,13 +103,13 @@ namespace DiscordApp
 
             var group = (GroupChat)chatService.CreateGroupChat(user1.Id, "Dev Friends");
             group.AddMember(user2.Id);
-            chatService.SendMessage(group.Id, user1.Id, "Hello Everybody! 🎉");
+            chatService.SendMessage(group.Id, user1.Id, "Hello Everybody!");
             Console.WriteLine($"{group}");
 
             
             Console.WriteLine("\n══════════════════════════");
             Console.WriteLine($"Users: {userRepo.GetAll().Count}");
-            Console.WriteLine($"Serversr: {server.Name} | 👥{server.MemberIds.Count}");
+            Console.WriteLine($"Serversr: {server.Name} | {server.MemberIds.Count}");
             Console.WriteLine($"DM: {dm.Messages.Count}");
             Console.WriteLine($"Voice: {voiceChannel.ActiveUserCount} users");
             Console.WriteLine("══════════════════════════");
