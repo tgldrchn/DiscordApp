@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DiscordApp/1.0.0": {
+        "dependencies": {
+          "SocialNetworkingPlatform.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "DiscordApp.dll": {}
+        }
+      },
+      "SocialNetworkingPlatform.Reference/1.0.0.0": {
+        "runtime": {
+          "SocialNetworkingPlatform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiscordApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocialNetworkingPlatform.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
